@@ -1,0 +1,7 @@
+streamlit
+groq
+pandas
+matplotlib
+openpyxl
+sentence-transformers
+scikit-learn
